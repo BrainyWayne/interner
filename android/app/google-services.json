@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "767196210128",
+    "firebase_url": "https://proxima-easyintern.firebaseio.com",
+    "project_id": "proxima-easyintern",
+    "storage_bucket": "proxima-easyintern.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767196210128:android:9317917cfb2517ba1acfd5",
+        "android_client_info": {
+          "package_name": "com.proxima.internship"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "767196210128-a568qnsj8460tscflg9chcosjdbigadd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZ3srNyh6GJAIgztOBTWrT2Nw7JdMbjIk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "767196210128-a568qnsj8460tscflg9chcosjdbigadd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "767196210128-g93ubt0lkjsbq62m0nag2urrn0un324f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.proxima.developersavenue"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767196210128:android:9ac1fa5da10833ca1acfd5",
+        "android_client_info": {
+          "package_name": "com.proximalabs.internship"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "767196210128-a568qnsj8460tscflg9chcosjdbigadd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZ3srNyh6GJAIgztOBTWrT2Nw7JdMbjIk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "767196210128-a568qnsj8460tscflg9chcosjdbigadd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "767196210128-g93ubt0lkjsbq62m0nag2urrn0un324f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.proxima.developersavenue"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

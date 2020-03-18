@@ -1,6 +1,6 @@
-# interner
+# internship
 
-A new Flutter project.
+A new Flutter application.
 
 ## Getting Started
 
